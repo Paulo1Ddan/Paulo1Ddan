@@ -1,16 +1,17 @@
-### Hi there 👋
+### Oiii o(*￣▽￣*)ブ. Me chamo Paulo Daniel 
 
-<!--
-**Paulo1Ddan/Paulo1Ddan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim (*^▽^*)
+- Formação em Técnico em Desenvolvimento de Sistemas pela Etec de Itaquaquecetuba #️⃣
+- Cursando Técnico em Informatica pelo Senac São Miguel Paulista 💻
+- Desenvolvedor Full-stack com foco em Web ⌨
+- Tecladista 🎹
+- Geek 🎮
+- Amante de trilhas sonoras 🎶
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Estou aprendendo ✍(◔◡◔)
+- PHP
+- Javascript
+- Node.js
+- Typescript
+- C#
+- Ionic
