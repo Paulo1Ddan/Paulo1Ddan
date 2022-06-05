@@ -1,5 +1,7 @@
 ### Oiii o(*￣▽￣*)ブ. Me chamo Paulo Daniel 
 
+
+
 ## Sobre mim (*^▽^*)
 - Formação em Técnico em Desenvolvimento de Sistemas pela Etec de Itaquaquecetuba #️⃣
 - Cursando Técnico em Informatica pelo Senac São Miguel Paulista 💻
