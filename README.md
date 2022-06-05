@@ -11,7 +11,10 @@
 - Amante de trilhas sonoras 🎶
 
 ## Estou aprendendo ✍(◔◡◔)
+- HTML
+- CSS
 - PHP
+- Mysql
 - Javascript
 - Node.js
 - Typescript
