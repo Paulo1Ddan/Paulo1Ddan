@@ -1,7 +1,7 @@
 
 <img width="100%" src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2015/07/tumblr_ngbasnF0bG1qze3hdo1_500.gif"/>
 
-<h1 align="center">Oiii o(*￣▽￣*)ブ. Me chamo Paulo Daniel</h1>
+<h1 align="center">Olá. Me chamo Paulo Daniel</h1>
 <h3 align="center">Sou Desenvolvedor Web 🌐</h3>
 
 - 🌱 Estudo atualmente **Laravel Framework**
