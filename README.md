@@ -29,6 +29,12 @@ Sou apaixonado por tecnologia e comecei a estudar programação web em 2020. Des
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulodaniel1360@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-daniel-03882220a/)
 
+## Setup
+- I3 10100F
+- RTX 2060
+- 16 GB RAM
+- Windows 11
+
 ## Status
         
 |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) | ![Paulo1Ddan GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo1ddan&show_icons=true&theme=tokyonight) |
