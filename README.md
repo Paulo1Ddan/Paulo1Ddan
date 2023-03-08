@@ -1,11 +1,18 @@
-### Olá. Eu sou o Paulo Daniel 👋
+## Olá. Eu sou o Paulo Daniel 👋
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulodaniel1360@gmail.com)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-daniel-03882220a/)
+<img src="https://i.pinimg.com/originals/4d/67/0e/4d670e6307fb44c4d4b6d8d14a5661fa.gif" width="100%" alt='Banner'>
 
-![Paulo1Ddan GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo1ddan&show_icons=true&theme=tokyonight)
+## Sobre Mim
 
-### Técnologias do dia a dia
+Sou apaixonado por tecnologia e comecei a estudar programação web em 2020. Desde então, venho diariamente estudando para aprimorar cada vez mais minhas habilidades. Desde o final de 2022, venho estudando Laravel framework juntamente com Vue JS e desenvolvendo projetos utilizando a ferramenta. Hoje, estou mais focado em desenvolvimento Back-End. Meu sonho é ingressar no mercado de trabalho de desenvolvimento web Back-End. Amo realizar desafios e realizar atividades que exigem de raciocínio.
+
+## Curiosidades
+
+- Tecladista 🎹
+- Gamer 🎮
+- Autista N1 de Suporte 🧩
+
+## Linguagens
 
 <div style="display: inline-block">
     <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white' alt='PHP' align='center'>
@@ -17,3 +24,14 @@
     <img src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white' alt='JQuery' align='center'>
     <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='Bootstrap' align='center'>
 </div>
+
+## Contato
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulodaniel1360@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-daniel-03882220a/)
+
+## Status
+        
+|  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) | ![Paulo1Ddan GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo1ddan&show_icons=true&theme=tokyonight) |
+| :---: | :---: |
+
+
