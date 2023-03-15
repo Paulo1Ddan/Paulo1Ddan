@@ -35,9 +35,5 @@ Sou apaixonado por tecnologia e comecei a estudar programação web em 2020. Des
 - 16 GB RAM
 - Windows 11
 
-## Status
-        
-|  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) | ![Paulo1Ddan GitHub stats](https://github-readme-stats.vercel.app/api?username=paulo1ddan&show_icons=true&theme=tokyonight) |
-| :---: | :---: |
 
 
