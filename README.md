@@ -6,17 +6,12 @@
 
 Sou apaixonado por programação, onde comecei a estudar sobre essa área em 2020. Desde então, venho diariamente estudando para aprimorar cada vez mais minhas habilidades. Já desenvolvi alguns projetos como um sistema para uma hospedagem de praia, um site institucional e sistema de administração de uma escola de teologia. Venho aprimorando minhas stacks em ABAP, PHP (Laravel), HTML, CSS, JS e MYSQL Atualmente, estou atuando como Consultor SAP Junior (ABAP) na Stefanini. Meu objetivo profissional é crescer na área de programação, aprimorando minhas habilidades técnicas e interpessoais e somando para o crescimento e desenvolvimento da equipe e empresa. Sou proativo, tenho boa comunicação, gosto de trabalhar em equipe, resolver desafios e aprender mais sobre novas tecnologias e tendencias..
 
-HABILIDADES E COMPETÊNCIAS
-- Montagem de desktops e notebooks
-- Manutenção Preventiva e Corretiva
-- Redes (Windows Server, Debian Server, AD DS, proxy, acesso remoto)
-- Desenvolvimento front-end (Vue JS, HTML, CSS, JS, Bootstrap, JQuery)
-- Desenvolvimento back-end (PHP, Laravel, ABAP)
-- Consultor SAP ABAP
+## HABILIDADES E COMPETÊNCIAS
+- Desenvolvimento front-end (Vue JS, HTML, CSS, JS, Bootstrap, JQuery, Tailwind)
+- Desenvolvimento back-end (PHP, Laravel, C#)
 - Banco de dados (MySQL)
   
 ## Curiosidades
-
 - Tecladista 🎹
 - Gamer 🎮
 - Autista N1 de Suporte 🧩
@@ -24,6 +19,7 @@ HABILIDADES E COMPETÊNCIAS
 ## Linguagens
 
 <div style="display: inline-block">
+    <img src='https://img.shields.io/badge/C#-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='Bootstrap' align='center'>
     <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white' alt='PHP' align='center'>
     <img src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white' alt='Laravel' align='center'>
     <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL' align='center'>
