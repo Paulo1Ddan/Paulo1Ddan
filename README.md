@@ -4,28 +4,28 @@
 
 ---
 
-## Tecnologias usadas no dia a dia
+## Linguagens e frameworks
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+## Frameworks e Libs
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+## Banco de dados
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-Sou apaixonado por programação, onde comecei a estudar sobre essa área em 2020. Desde então, venho diariamente estudando para aprimorar cada vez mais minhas habilidades. Já desenvolvi alguns projetos como um sistema para uma hospedagem de praia, um site institucional e sistema de administração de uma escola de teologia. Venho aprimorando minhas stacks em ABAP, PHP (Laravel), HTML, CSS, JS e MYSQL Atualmente, estou atuando como Consultor SAP Junior (ABAP) na Stefanini. Meu objetivo profissional é crescer na área de programação, aprimorando minhas habilidades técnicas e interpessoais e somando para o crescimento e desenvolvimento da equipe e empresa. Sou proativo, tenho boa comunicação, gosto de trabalhar em equipe, resolver desafios e aprender mais sobre novas tecnologias e tendencias..
-
-## HABILIDADES E COMPETÊNCIAS
-- Desenvolvimento front-end (Vue JS, HTML, CSS, JS, Bootstrap, JQuery, Tailwind)
-- Desenvolvimento back-end (PHP, Laravel, C#)
-- Banco de dados (MySQL)
-
-## Linguagens
-
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Contato
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulodaniel1360@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-daniel-03882220a/)
 
-## Setup
-- I3 10100F
-- RTX 2060
-- 16 GB RAM
-- Windows 11
 
 
 
