@@ -1,8 +1,11 @@
-## Olá. Eu sou o Paulo Daniel 👋
+## Olá. Eu sou o Paulo Daniel, e sou desenvolvedor Back End👋
 
 <img src="https://i.imgur.com/gBxP6oJ.gif" width="100%" alt='Banner'>
 
-## Sobre Mim
+---
+
+## Tecnologias usadas no dia a dia
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 Sou apaixonado por programação, onde comecei a estudar sobre essa área em 2020. Desde então, venho diariamente estudando para aprimorar cada vez mais minhas habilidades. Já desenvolvi alguns projetos como um sistema para uma hospedagem de praia, um site institucional e sistema de administração de uma escola de teologia. Venho aprimorando minhas stacks em ABAP, PHP (Laravel), HTML, CSS, JS e MYSQL Atualmente, estou atuando como Consultor SAP Junior (ABAP) na Stefanini. Meu objetivo profissional é crescer na área de programação, aprimorando minhas habilidades técnicas e interpessoais e somando para o crescimento e desenvolvimento da equipe e empresa. Sou proativo, tenho boa comunicação, gosto de trabalhar em equipe, resolver desafios e aprender mais sobre novas tecnologias e tendencias..
 
@@ -10,26 +13,8 @@ Sou apaixonado por programação, onde comecei a estudar sobre essa área em 202
 - Desenvolvimento front-end (Vue JS, HTML, CSS, JS, Bootstrap, JQuery, Tailwind)
 - Desenvolvimento back-end (PHP, Laravel, C#)
 - Banco de dados (MySQL)
-  
-## Curiosidades
-- Tecladista 🎹
-- Gamer 🎮
-- Autista N1 de Suporte 🧩
 
 ## Linguagens
-
-<div style="display: inline-block">
-    <img src='https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white' alt='C#' align='center'>
-    <img src='https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white' alt='PHP' align='center'>
-    <img src='https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white' alt='Laravel' align='center'>
-    <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' alt='MySQL' align='center'>
-    <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='HTML5' align='center'>
-    <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='CSS3' align='center'>
-    <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black' alt='Javascript' align='center'>
-    <img src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white' alt='JQuery' align='center'>
-    <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white' alt='Bootstrap' align='center'>
-    <img src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white' alt='Tailwind CSS' align='center'>
-</div>
 
 
 ## Contato
