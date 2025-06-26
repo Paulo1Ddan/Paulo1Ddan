@@ -1,6 +1,6 @@
 ## Olá. Eu sou o Paulo Daniel 👋
 
-<img src="https://i.pinimg.com/originals/4d/67/0e/4d670e6307fb44c4d4b6d8d14a5661fa.gif" width="100%" alt='Banner'>
+<img src="https://i.imgur.com/gBxP6oJ.gif" width="100%" alt='Banner'>
 
 ## Sobre Mim
 
