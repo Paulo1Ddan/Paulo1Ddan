@@ -37,7 +37,7 @@ Iniciei meus estudos em programação em 2020, com um curso técnico em Desenvol
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulodaniel1360@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-daniel-03882220a/)
 
---
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Paulo1Ddan/Paulo1Ddan/output/github-contribution-grid-snake-dark.svg">
