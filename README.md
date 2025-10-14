@@ -1,4 +1,4 @@
-# Olá. Me chamo Paulo e sou Desenvolvedor Full-Stack []~(￣▽￣)
+# Olá. Me chamo Paulo e sou Desenvolvedor Full-Stack    []~(￣▽￣)
 
 <img src="https://images.squarespace-cdn.com/content/v1/526c1ec9e4b08fcd5cab7b96/1578355727422-M4IGY2047VQ0IGO7RFLC/Master+Sword+Hexel-Animated2.gif" width="100%" alt='Banner'>
 
